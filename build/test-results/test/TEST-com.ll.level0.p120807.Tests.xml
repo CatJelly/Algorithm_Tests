@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ll.level0.p120807.Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-23T00:39:38" hostname="DESKTOP-F401O9N" time="0.044">
+  <properties/>
+  <testcase name="2, 3 =&gt; -1" classname="com.ll.level0.p120807.Tests" time="0.044"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
